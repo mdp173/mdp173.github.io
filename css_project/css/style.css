@@ -151,8 +151,8 @@ header{
   margin: 7px;
 }
 #telephones-table{
+  margin: 7px;
   border-collapse: collapse;
-  margin:7px;
 }
 #telephones-table th, td{
   border: 1px solid rgb(0,0,0);
