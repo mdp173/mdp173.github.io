@@ -154,15 +154,32 @@ footer{
   grid-column: 1;
   grid-row: 1;
 }
-#useful-links p{
+#return-top{
   grid-column: 1;
   grid-row: 2;
 }
+#cia{
+  grid-column: 1;
+  grid-row: 2;
+}
+#gov{
+  grid-column: 1;
+  grid-row: 2;
+}
+#tourism{
+  grid-column: 1;
+  grid-row: 2;
+}
+
 #contact{
   grid-column: 2;
   grid-row: 1;
 }
-#contact p{
+#email{
+  grid-column: 2;
+  grid-row: 2;
+}
+#cel{
   grid-column: 2;
   grid-row: 2;
 }
