@@ -17,8 +17,8 @@ main{
   grid-row: 1;
 }
 #canada-flag > img{
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 150px;
 }
 #intro{
   grid-column: 1/3;
