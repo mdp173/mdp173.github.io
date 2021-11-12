@@ -18,10 +18,13 @@ main{
   height: 150px;
 }
 #intro{
-  grid-column: 2;
-  grid-row: 1;
   display: grid;
   grid-template-columns: 1fr 1fr;
+}
+#intro > h2{
+  grid-column: 2;
+  grid-row: 1;
+  text-align: center;
 }
 #canada-flag{
   grid-column: 1;
