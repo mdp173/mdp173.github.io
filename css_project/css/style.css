@@ -1,33 +1,7 @@
 body{
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 1fr;
   max-width: 900px;
   margin: 20px auto;
   grid-gap: 20px;
-  grid-template-areas:
-    "masthead   masthead"
-    "intro      intro"
-    "geography  geography"
-    "people-and-society  people-and-society"
-    "footer     footer"
-}
-
-header{
-  grid-area: masthead;
-}
-
-#intro{
-  grid-ara: intro;
-}
-
-#geography{
-  grid-area: geography;
-}
-
-#people-and-society{
-  grid-area: people-and-society;
-}
-
-footer{
-  grid-area: footer;
 }
