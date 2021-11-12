@@ -91,9 +91,10 @@ header{
 #population{
   grid-column: 1;
   grid-row: 2;
-  margin:7px;
 }
-
+#population h3,p{
+  margin: 7px;
+}
 #median-age{
   grid-column: 2;
   grid-row: 2;
