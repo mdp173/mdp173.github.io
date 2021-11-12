@@ -154,7 +154,15 @@ footer{
   grid-column: 1;
   grid-row: 1;
 }
+#useful-links p{
+  grid-column: 1;
+  grid-row: 2;
+}
 #contact{
   grid-column: 2;
   grid-row: 1;
+}
+#contact p{
+  grid-column: 2;
+  grid-row: 2;
 }
