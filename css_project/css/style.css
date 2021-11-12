@@ -1,5 +1,6 @@
 body{
   background-color: rgb(255, 255, 204);
+  font-family: "Arial", sans-serif;
 }
 
 #canada-flag img{
@@ -17,13 +18,23 @@ body{
 #canada-flag{
   grid-column: 1;
   grid-row: 1;
+  margin: 0px;
+
 }
 #history{
   grid-column: 1;
   grid-row: 2;
+  overflow: hidden;
+  max-width: 60ch;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 #political-challanges{
   grid-column: 2;
   grid-row: 2;
+  overflow: hidden;
+  max-width: 60ch;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
