@@ -47,6 +47,7 @@ body{
 #geography h2{
   grid-column: 1;
   grid-row: 1;
+  height: auto;
 }
 
 #location{
