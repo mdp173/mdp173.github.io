@@ -145,10 +145,10 @@ header{
   max-width: 60ch;
   word-wrap: break-word;
 }
-#footer{
+footer{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-auto-rows: minmax(50px, auto);
+  grid-template-rows: 1fr;
 }
 #useful-links{
   grid-column: 1;
