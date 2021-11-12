@@ -70,7 +70,7 @@ header{
   grid-column: 2;
   grid-row: 2;
 }
-#area table, th, td{
+#area-table{
   border: 1px solid rgb(0,0,0);
   border-collapse: collapse;
 }
