@@ -22,7 +22,6 @@ body{
 #history{
   grid-column: 1;
   grid-row: 3;
-  overflow: scroll;
   max-width: 60ch;
   white-space: initial;
 }
@@ -30,7 +29,6 @@ body{
 #political-challanges{
   grid-column: 2;
   grid-row: 3;
-  overflow: scroll;
   max-width: 60ch;
   white-space: initial;
 }
