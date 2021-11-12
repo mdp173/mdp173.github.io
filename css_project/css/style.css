@@ -137,7 +137,7 @@ header{
 #internet-users{
   grid-column: 2;
   grid-row: 2;
-}
-#internet-users h3, p{
   margin: 7px;
+  max-width: 60ch;
+  word-wrap: break-word;
 }
