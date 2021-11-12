@@ -98,7 +98,9 @@ header{
 #median-age{
   grid-column: 2;
   grid-row: 2;
-  align-self: flex-start;
+}
+#median-age h3{
+  margin: 7px;
 }
 #median-age-table{
   border-collapse: collapse;
