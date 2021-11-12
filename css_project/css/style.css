@@ -11,7 +11,7 @@ main{
   color: rgb(0,0,0);
 }
 a:link{
-  color: rbg(0,0,255);
+  color: rgb(0,0,255);
 }
 a:visited{
   color: rgb(127,0,255);
