@@ -148,7 +148,7 @@ header{
 footer{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr;
+  grid-template-rows: 1fr 1fr;
 }
 #useful-links{
   grid-column: 1;
@@ -157,4 +157,12 @@ footer{
 #contact{
   grid-column: 2;
   grid-row: 1;
+}
+#links{
+  grid-column: 1;
+  grid-row: 2;
+}
+#information{
+  grid-column: 2;
+  grid-row: 2;
 }
