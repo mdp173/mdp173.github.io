@@ -1,7 +1,9 @@
 body{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
   max-width: 900px;
+  margin: 20px auto;
+  grid-gap: 20px;
   grid-template-areas:
     "masthead   masthead"
     "intro      intro"
