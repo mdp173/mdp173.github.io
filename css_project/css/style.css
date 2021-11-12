@@ -20,7 +20,7 @@ header{
   grid-column: 1;
   grid-row: 2;
   margin: 7px;
-  border-bottom: 15px solid rgb(0,0,0);
+  border-bottom: 8px solid rgb(0,0,0);
 }
 #canada-flag{
   grid-column: 1;
@@ -54,6 +54,7 @@ header{
   grid-row: 1;
   height: auto;
   margin: 7px;
+  border-bottom: 8px solid rgb(0,0,0);
 }
 
 #location{
@@ -88,6 +89,7 @@ header{
   grid-row: 1;
   height: auto;
   margin: 7px;
+  border-bottom: 8px solid rgb(0,0,0);
 }
 #population{
   grid-column: 1;
@@ -121,6 +123,7 @@ header{
   grid-row: 1;
   height: auto;
   margin: 7px;
+  border-bottom: 8px solid rgb(0,0,0);
 }
 #telephones{
   grid-column: 1;
