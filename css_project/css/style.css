@@ -10,6 +10,18 @@ main{
   font-family: "Open Sans", "Roboto", "Arial", sans-serif;
   color: rgb(0,0,0);
 }
+a:link{
+  color: rbg(0,0,255);
+}
+a:visited{
+  color: rgb(127,0,255);
+}
+a:hover{
+  color: rgb(255,0,0);
+}
+a:active{
+  color: rgb(255,255,0);
+}
 header{
   margin: 7px;
 }
