@@ -9,8 +9,8 @@ body{
 }
 #intro{
   display: grid;
-  grid-column: 2;
-  grid-row: 1;
+  grid-column: 1;
+  grid-row: 2;
   grid-template-columns: 1fr 1fr;
   grid-auto-rows: minmax(100px, auto);
 }
@@ -23,16 +23,16 @@ body{
 }
 #history{
   grid-column: 1;
-  grid-row: 2;
-  overflow: auto;
+  grid-row: 3;
+  overflow: scroll;
   max-width: 60ch;
   white-space: nowrap;
 }
 
 #political-challanges{
   grid-column: 2;
-  grid-row: 2;
-  overflow: auto;
+  grid-row: 3;
+  overflow: scroll;
   max-width: 60ch;
   white-space: nowrap;
 }
