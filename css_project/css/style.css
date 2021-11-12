@@ -154,7 +154,8 @@ header{
   border-collapse: collapse;
 }
 #telephones-table th, td{
-  border: 1px solid rgb(0,0,0)
+  border: 1px solid rgb(0,0,0);
+  margin: 7px;
 }
 #internet-users{
   grid-column: 2;
