@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap');
+
 body{
   background-color: rgb(255, 255, 204);
   font-family: "Arial", sans-serif;
   border: 5px solid;
 
+}
+main{
+  font-family: "Open Sans", "Roboto", "Arial", sans-serif;
+  color: rgb(0,0,0);
 }
 header{
   margin: 7px;
