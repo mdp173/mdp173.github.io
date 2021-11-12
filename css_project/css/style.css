@@ -109,3 +109,35 @@ header{
 #median-age-table th,td{
   border: 1px solid rgb(0,0,0);
 }
+
+#communications{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: minmax(50px, auto);
+}
+#communications h2{
+  grid-column: 1;
+  grid-row: 1;
+  height: auto;
+  margin: 7px;
+}
+#telephones{
+  grid-column: 1;
+  grid-row: 2;
+}
+#telephones h3{
+  margin: 7px;
+}
+#telephones-table{
+  border-collapse: collapse;
+}
+#telephones-table th, td{
+  border: 1px solid rgb(0,0,0)
+}
+#internet-users{
+  grid-column: 2;
+  grid-row: 2;
+}
+#internet-users h3, p{
+  margin: 7px;
+}
