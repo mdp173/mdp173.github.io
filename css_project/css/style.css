@@ -153,22 +153,7 @@ footer{
 #useful-links{
   grid-column: 1;
   grid-row: 1;
-  height: auto;
-  margin: 7px;
-  border-bottom: medium solid rgb(0,0,0);
 }
 #contact{
   grid-column: 2;
   grid-row: 1;
-  height: auto;
-  margin: 7px;
-  border-bottom: medium solid rgb(0,0,0);
-}
-#links{
-  grid-column: 1;
-  grid-row: 2;
-}
-#information{
-  grid-column: 2;
-  grid-row: 2;
-}
