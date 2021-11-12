@@ -18,4 +18,6 @@ main{
 #intro{
   grid-column: 1/3;
   grid-row: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
