@@ -6,9 +6,6 @@ body{
 header{
   padding-left: 20px;
 }
-header figure{
-  padding-right: 20px;
-}
 
 main{
   display: grid;
@@ -20,4 +17,19 @@ main{
   grid-row: 1;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+}
+
+#history{
+  grid-column: 1;
+  grid-row: 2;
+}
+
+#political-challanges{
+  grid-column: 2;
+  grid-row: 2;
+}
+
+#extra-history{
+  grid-column: 3;
+  grid-row: 2;
 }
