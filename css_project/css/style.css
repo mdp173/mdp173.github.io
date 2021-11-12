@@ -154,32 +154,17 @@ footer{
   grid-column: 1;
   grid-row: 1;
 }
-#return-top{
-  grid-column: 1;
-  grid-row: 2;
-}
-#cia{
-  grid-column: 1;
-  grid-row: 2;
-}
-#gov{
-  grid-column: 1;
-  grid-row: 2;
-}
-#tourism{
-  grid-column: 1;
-  grid-row: 2;
-}
 
 #contact{
   grid-column: 2;
   grid-row: 1;
 }
-#email{
-  grid-column: 2;
+
+#links{
+  grid-column: 1;
   grid-row: 2;
 }
-#cel{
+#information{
   grid-column: 2;
   grid-row: 2;
 }
