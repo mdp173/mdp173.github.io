@@ -39,6 +39,13 @@ header{
   border-top: 3px solid;
   border-bottom: 3px solid;
 }
+#soccer-intro{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+}
 #home-intro-words{
   grid-column: 1;
   grid-row: 1;
@@ -49,11 +56,20 @@ header{
   grid-row: 1;
   margin: 7px;
 }
+#soccer-intro-words{
+  grid-column: 1;
+  grid-row: 1;
+  margin: 7px
+}
 #home-intro-words p{
   max-width: 60ch;
   word-wrap: break-word;
 }
 #surf-intro-words p{
+  max-width: 60ch;
+  word-wrap: break-word;
+}
+#soccer-intro-words p{
   max-width: 60ch;
   word-wrap: break-word;
 }
@@ -67,12 +83,21 @@ header{
   grid-row: 1;
   margin: 7px;
 }
+#crowd-image{
+  grid-column: 2;
+  grid-row: 1;
+  margin: 7px;
+}
 #world-globe img{
   width: 350px;
   height: 320px;
 }
 #surf-image img{
   width: 400px;
+  height: 320px;
+}
+#crowd-image img{
+  width: 350px;
   height: 320px;
 }
 #home-surf{
@@ -87,7 +112,12 @@ header{
   grid-auto-rows: 1fr;
   border-bottom: 3px solid;
 }
-
+#soccer-first{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+  border-bottom: 3px solid;
+}
 #home-surf-words{
   grid-column: 2;
   grid-row: 1;
@@ -95,6 +125,12 @@ header{
   padding-right: 10px;
 }
 #surf-first-words{
+  grid-column: 2;
+  grid-row: 1;
+  margin: 7px;
+  padding-right: 10px;
+}
+#soccer-first-words{
   grid-column: 2;
   grid-row: 1;
   margin: 7px;
@@ -108,6 +144,10 @@ header{
   max-width: 60ch;
   word-wrap: break-word;
 }
+#soccer-first-words p{
+  max-width: 60ch;
+  word-wrap: break-word;
+}
 #maldives-atolls{
   grid-column: 1;
   grid-row: 1;
@@ -118,12 +158,21 @@ header{
   grid-row: 1;
   margin: 7px;
 }
+#culture-image{
+  grid-column: 1;
+  grid-row: 1;
+  margin: 7px;
+}
 #maldives-atolls img{
   width: 350px;
   height: 320px;
 }
 #walking-image img{
   width: 400px;
+  height: 320px;
+}
+#culture-image img{
+  width: 350px;
   height: 320px;
 }
 #home-soccer{
@@ -138,13 +187,23 @@ header{
   grid-auto-rows: 1fr;
   border-bottom: 3px solid;
 }
-
+#soccer-second{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+  border-bottom: 3px solid;
+}
 #home-soccer-words{
   grid-column: 1;
   grid-row: 1;
   margin: 7px;
 }
 #surf-second-words{
+  grid-column: 1;
+  grid-row: 1;
+  margin: 7px;
+}
+#soccer-second-words{
   grid-column: 1;
   grid-row: 1;
   margin: 7px;
@@ -159,11 +218,19 @@ header{
   word-wrap: break-word;
   padding-left: 10px;
 }
+#soccer-second-words p{
+  max-width: 60ch;
+  word-wrap: break-word;
+  padding-left: 10px;
+}
 #home-soccer-words a{
   margin: 7px;
 }
 #surf-second-words h2{
   margin: 7px;
+}
+#soccer-second-words h2{
+  margin:7px;
 }
 #camp-nou{
   grid-column: 2;
@@ -175,12 +242,21 @@ header{
   grid-row: 1;
   margin: 7px;
 }
+#game-image{
+  grid-column: 2;
+  grid-row: 1;
+  margin: 7px;
+}
 #camp-nou img{
   width: 350px;
   height: 320px;
 }
 #best-image img{
   width: 400px;
+  height: 320px;
+}
+#game-image img{
+  width: 350px;
   height: 320px;
 }
 #footer h2{
