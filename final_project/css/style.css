@@ -105,3 +105,6 @@ header{
   width: 350px;
   height: 300px;
 }
+#footer h2{
+  margin: 7px;
+}
