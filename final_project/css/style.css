@@ -34,6 +34,8 @@ header{
   grid-column: 1;
   grid-row: 1;
   margin: 7px;
+  max-width: 60ch;
+  word-wrap: break-word;
 }
 #world-globe{
   grid-column: 2;
@@ -41,6 +43,27 @@ header{
   margin: 7px;
 }
 #world-globe img{
+  width: 300px;
+  height: 300px;
+}
+#home-surf{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+}
+#home-surf-words{
+  grid-column: 1;
+  grid-row: 1;
+  margin: 7px;
+  max-width: 60ch;
+  word-wrap: break-word;
+}
+#maldives-atolls{
+  grid-column: 2;
+  grid-row: 1;
+  margin: 7px;
+}
+#maldives-atolls img{
   width: 300px;
   height: 300px;
 }
