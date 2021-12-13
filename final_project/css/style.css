@@ -89,16 +89,16 @@ header{
   margin: 7px;
 }
 #world-globe img{
-  width: 350px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #surf-image img{
-  width: 400px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #crowd-image img{
-  width: 350px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #home-surf{
   display: grid;
@@ -164,16 +164,16 @@ header{
   margin: 7px;
 }
 #maldives-atolls img{
-  width: 350px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #walking-image img{
-  width: 400px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #culture-image img{
-  width: 350px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #home-soccer{
   display: grid;
@@ -246,16 +246,16 @@ header{
   margin: 7px;
 }
 #camp-nou img{
-  width: 350px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #best-image img{
-  width: 400px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #game-image img{
-  width: 350px;
-  height: 320px;
+  width: auto;
+  height: auto;
 }
 #footer h2{
   margin: 7px;
