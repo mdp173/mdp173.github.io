@@ -34,6 +34,8 @@ header{
   grid-column: 1;
   grid-row: 1;
   margin: 7px;
+}
+#home-intro-words p{
   max-width: 60ch;
   word-wrap: break-word;
 }
@@ -55,6 +57,8 @@ header{
   grid-column: 2;
   grid-row: 1;
   margin: 7px;
+}
+#home-surf-words p{
   max-width: 60ch;
   word-wrap: break-word;
 }
@@ -76,6 +80,8 @@ header{
   grid-column: 1;
   grid-row: 1;
   margin: 7px;
+}
+#home-soccer-words p{
   max-width: 60ch;
   word-wrap: break-word;
 }
