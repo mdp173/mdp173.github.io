@@ -47,8 +47,8 @@ header{
   margin: 7px;
 }
 #world-globe img{
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 320px;
 }
 #home-surf{
   display: grid;
@@ -72,7 +72,7 @@ header{
   margin: 7px;
 }
 #maldives-atolls img{
-  width: 300px;
+  width: 350px;
   height: 300px;
 }
 #home-soccer{
@@ -97,6 +97,6 @@ header{
   margin: 7px;
 }
 #camp-nou img{
-  width: 300px;
+  width: 350px;
   height: 300px;
 }
